@@ -1,2 +1,2 @@
-# cosmetic_image_analyz
+# cosmetic_image_analyze
 テスト用
