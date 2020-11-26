@@ -19,4 +19,5 @@ for index, row in df.iterrows():
         output =  output.append(df_target, ignore_index = True)
 
 output.to_csv(DATA_DIR / 'q1015.csv', index=None)
+
 print(i)
